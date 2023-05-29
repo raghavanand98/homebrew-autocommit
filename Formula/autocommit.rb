@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Espanso < Formula
+class Autocommit < Formula
   desc "A simple tool to automatically commit changes using LLM generated commit summaries."
   homepage "https://github.com/raghavanand98/autocommit"
   url "https://github.com/raghavanand98/autocommit/releases/download/v0.1.3/autocommit-x86_64-apple-darwin.tar.xz"
