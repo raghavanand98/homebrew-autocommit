@@ -5,7 +5,7 @@ class Autocommit < Formula
   desc "A simple tool to automatically commit changes using LLM generated commit summaries."
   homepage "https://github.com/raghavanand98/autocommit"
   url "https://github.com/raghavanand98/autocommit/releases/download/v0.1.4/autocommit-x86_64-apple-darwin.tar.xz"
-  sha256 "d2dbe30209b49d6fa0b4cb14e02d7f738def974bd5ae1367c6b0f987a4b2c508"
+  sha256 "a0bba4f5ce67e8becf4de80eb55e7f3050fd9e4aafb33a34708f5935f09afcf9"
   version "0.1.4"
 
   def install
